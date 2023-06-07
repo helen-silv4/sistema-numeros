@@ -1,0 +1,7 @@
+C:\Users\Thais.WESLEY\Desktop\Helen\C#\SistemaNumeros\bin\Debug\SistemaNumeros.exe.config
+C:\Users\Thais.WESLEY\Desktop\Helen\C#\SistemaNumeros\bin\Debug\SistemaNumeros.exe
+C:\Users\Thais.WESLEY\Desktop\Helen\C#\SistemaNumeros\bin\Debug\SistemaNumeros.pdb
+C:\Users\Thais.WESLEY\Desktop\Helen\C#\SistemaNumeros\obj\Debug\SistemaNumeros.csprojAssemblyReference.cache
+C:\Users\Thais.WESLEY\Desktop\Helen\C#\SistemaNumeros\obj\Debug\SistemaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Thais.WESLEY\Desktop\Helen\C#\SistemaNumeros\obj\Debug\SistemaNumeros.exe
+C:\Users\Thais.WESLEY\Desktop\Helen\C#\SistemaNumeros\obj\Debug\SistemaNumeros.pdb
